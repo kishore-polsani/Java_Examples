@@ -1,4 +1,4 @@
-package com.kishore;
+package com.kishore.strings;
 
 public class StringFormat {
 

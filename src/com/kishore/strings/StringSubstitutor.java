@@ -1,4 +1,4 @@
-package com.kishore;
+package com.kishore.strings;
 
 import org.apache.commons.lang3.text.StrSubstitutor;
 

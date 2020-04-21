@@ -1,6 +1,6 @@
-package com.kishore;
+package com.kishore.extras;
 
-public class Records {
+public class Contact {
 
     String name;
     String title;
@@ -21,7 +21,4 @@ public class Records {
         this.name = name;
     }
 
-    public static void main(String[] args) {
-
-    }
 }
