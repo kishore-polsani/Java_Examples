@@ -1,0 +1,13 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Úˆğàøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¼ÆØªûÿÿÿÿ
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Úäù
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(×öÖšùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÆ­Ûşÿÿÿÿ
+>
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+M
+java:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+Q	java:S125#"<This block of commented-out lines of code should be removed.(†€éˆ
+M
+java:S1135""2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ

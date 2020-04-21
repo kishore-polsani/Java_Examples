@@ -1,0 +1,20 @@
+
+K
+java:S1874¬"5Remove this use of "ROUND_HALF_UP"; it is deprecated.(Ñá
+D
+java:S1874«".Remove this use of "divide"; it is deprecated.(ØÈß|
+S	java:S1061"9Replace this use of System.out or System.err by a logger.( ‡Ô€ûÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(É¡¼ƒ
+f
+java:S1192"KDefine a constant instead of duplicating this literal "yyyy-MM-dd" 5 times.(Š³›Ëûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‹ñõ’
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(²ÈŞ¾
+>
+java:S1148<"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+>
+java:S1148P"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+R	java:S125Ÿ"<This block of commented-out lines of code should be removed.(•ü·†
+>
+java:S1148f"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‹ñõ’

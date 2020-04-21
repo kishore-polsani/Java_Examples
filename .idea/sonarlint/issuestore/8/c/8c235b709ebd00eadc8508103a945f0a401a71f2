@@ -1,0 +1,12 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(„¿ÞÅ
+Q
+java:S1144#"6Remove this unused private "calculateYOYPrice" method.(¼»Û€þÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(À‚£²
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(²°·§
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(ÿæúõÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(…Úáÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(­Ñƒüÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(úÎ£þÿÿÿÿ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(Í´æé
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(Îå”ûÿÿÿÿ
